@@ -130,3 +130,11 @@ dmypy.json
 .pyre/
 
 *.lmdb
+
+#dataset
+dataset/
+
+#models and training log
+experiments/
+
+
